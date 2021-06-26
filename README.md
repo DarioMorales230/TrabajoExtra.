@@ -183,6 +183,9 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![Captura de pantalla (1413)](https://user-images.githubusercontent.com/85144847/123504113-fd2dd600-d61c-11eb-8632-1a0c22e7783b.png)
 
+39.-	En la figura 2-73, ¿cuánto voltaje indica cada medidor cuando el interruptor está en la posición 1? ¿En la posición 2?
+
+![Captura de pantalla (1414)](https://user-images.githubusercontent.com/85144847/123504216-7f1dff00-d61d-11eb-80e3-3f1de12e6549.png)
 
 
 
