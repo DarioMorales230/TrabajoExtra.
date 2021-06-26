@@ -157,7 +157,11 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![Captura de pantalla (1405)](https://user-images.githubusercontent.com/85144847/123503825-04ec7b00-d61b-11eb-837a-2530d1ec7ddc.png)
 
+33.-	En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cual es este circuito.
 
+![Captura de pantalla (1406)](https://user-images.githubusercontent.com/85144847/123503863-4e3cca80-d61b-11eb-8133-d3025128ffc1.png)
+
+34.- ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?       
 
 
 
