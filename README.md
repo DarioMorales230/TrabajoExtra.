@@ -83,6 +83,12 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1388)](https://user-images.githubusercontent.com/85144847/123496388-7ad9ed80-d5ed-11eb-92b0-b40687e75b2b.png)
 
+16.- Encuentre la resistencia correspondiente a las siguientes conductancias:
+
+![Captura de pantalla (1389)](https://user-images.githubusercontent.com/85144847/123496448-c12f4c80-d5ed-11eb-9a35-a23a9a62f372.png)
+
+
+
 
 
 
