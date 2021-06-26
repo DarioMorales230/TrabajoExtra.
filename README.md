@@ -167,7 +167,8 @@ SECCIÓN 2–6 El circuito eléctrico
 
 35.- Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1  y VS2)  al mismo tiempo a cualquiera de dos resistores (R1  y R2) como sigue:
 
-![Captura de pantalla (1408)](https://user-images.githubusercontent.com/85144847/123503970-f18ddf80-d61b-11eb-9461-8772d7617fb4.png)
+![Captura de pantalla (1409)](https://user-images.githubusercontent.com/85144847/123504003-2863f580-d61c-11eb-898d-6d6e5c2b959a.png)
+
 
 
 
