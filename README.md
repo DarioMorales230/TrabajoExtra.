@@ -63,8 +63,17 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1383)](https://user-images.githubusercontent.com/85144847/123496074-f0dd5500-d5eb-11eb-8f73-44636041d40e.png)
 
+11.- Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
 
+![Captura de pantalla (1384)](https://user-images.githubusercontent.com/85144847/123496176-76610500-d5ec-11eb-8b3b-b1c73cdf8531.png)
 
+12.- ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![Captura de pantalla (1385)](https://user-images.githubusercontent.com/85144847/123496199-837df400-d5ec-11eb-96b8-6c108c972273.png)
+
+13.- ¿Cuántos coulomb pasan por un punto en 0.1 s cuando la corriente es de 1.5 A? 
+
+![Captura de pantalla (1386)](https://user-images.githubusercontent.com/85144847/123496219-91cc1000-d5ec-11eb-8dd3-b6c6562606b4.png)
 
 
 
