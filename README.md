@@ -93,6 +93,13 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 ![Captura de pantalla (1390)](https://user-images.githubusercontent.com/85144847/123496524-19664e80-d5ee-11eb-9e87-6208450eccb7.png)
 
+18.- ¿En qué principio se basan los generadores eléctricos?
+
+![Captura de pantalla (1391)](https://user-images.githubusercontent.com/85144847/123496576-5c282680-d5ee-11eb-871a-e936826f9d3d.png)
+
+19.- ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+![Captura de pantalla (1392)](https://user-images.githubusercontent.com/85144847/123496612-91cd0f80-d5ee-11eb-8df1-5e97ed75621c.png)
 
 
 
