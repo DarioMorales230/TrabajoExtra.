@@ -32,6 +32,13 @@ Para la debida resolución del ejercicio presentado debemos aplicar lo mismo que
 
 ![Captura de pantalla (1376)](https://user-images.githubusercontent.com/85144847/123495541-bd99c680-d5e9-11eb-9d6b-e6619de143dd.png)
 
+4.- ¿Cuántos electrones se requieren para producir 80 μC (microcoulombs) de carga?
+Para resolver este ejercicio necesitaremos saber la siguiente información:
+
+![Captura de pantalla (1377)](https://user-images.githubusercontent.com/85144847/123495617-1701f580-d5ea-11eb-836b-646396768577.png)
+
+
+
 
 
 
