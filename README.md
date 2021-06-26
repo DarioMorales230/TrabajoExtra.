@@ -10,7 +10,7 @@
 
 •	Explicar el debido funcionamiento de cada elemento eléctrico o electrónico que este dentro del circuito. 
 
-•	Identificar y detallar que tipo de instrumento de medición necesitamos para poder obtener lecturas de los componentes eléctricos del circuito también teniendo en cuenta de como se deben de conectar.
+•	Identificar y detallar que tipo de instrumento de medición necesitamos para poder obtener lecturas de los componentes eléctricos del circuito también teniendo en cuenta de cómo se deben de conectar.
 
 •	Detallar cada componente o ejercicio que se nos presente a continuación para lograr una mejor comprensión del tema a tratar.
 
