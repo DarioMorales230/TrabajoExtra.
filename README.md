@@ -199,10 +199,17 @@ Rpta: Para poder saber cual es la corriente eléctrica que pasa por la fuente de
 
 ![image](https://user-images.githubusercontent.com/85144847/123504298-f0f64880-d61d-11eb-8745-d08e25cb0773.png)
  
- Rpta:
+ Respuesta:
  
  ![image](https://user-images.githubusercontent.com/85144847/123504304-f94e8380-d61d-11eb-9cd0-fa15b84fcce0.png)
 
+42.- 	Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+
+![image](https://user-images.githubusercontent.com/85144847/123504328-2bf87c00-d61e-11eb-833d-674ba13f1595.png)
+
+Respuesta:
+
+![image](https://user-images.githubusercontent.com/85144847/123504334-33b82080-d61e-11eb-82ae-5bfa3ddc34eb.png)
 
 
 
