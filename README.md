@@ -107,9 +107,14 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 SECCIÓN 2–5 Resistores
 
-21.- Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
+21.- Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas.
 
 ![Captura de pantalla (1394)](https://user-images.githubusercontent.com/85144847/123496777-5f6fe200-d5ef-11eb-9abc-06bb37c8b11e.png)
+
+22.- Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+![Captura de pantalla (1395)](https://user-images.githubusercontent.com/85144847/123496859-d60cdf80-d5ef-11eb-9ed9-7c122ef48de1.png)
+
 
 
 4. Conclusiones.
