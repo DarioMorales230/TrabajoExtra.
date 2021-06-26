@@ -175,6 +175,12 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![image](https://user-images.githubusercontent.com/85144847/123504021-50ebef80-d61c-11eb-92b1-9424735758c2.png)
 
+37.- Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
+
+![Captura de pantalla (1411)](https://user-images.githubusercontent.com/85144847/123504065-a3c5a700-d61c-11eb-8b4d-2d8d70204bef.png)
+
+38.-	Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
 
 
 
