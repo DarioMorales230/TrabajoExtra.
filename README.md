@@ -79,6 +79,10 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1387)](https://user-images.githubusercontent.com/85144847/123496303-069f4a00-d5ed-11eb-9804-f699691fcb7a.png)
 
+15.- Determine la conductancia para cada uno de los siguientes valores de resistencia:
+
+![Captura de pantalla (1388)](https://user-images.githubusercontent.com/85144847/123496388-7ad9ed80-d5ed-11eb-92b0-b40687e75b2b.png)
+
 
 
 
