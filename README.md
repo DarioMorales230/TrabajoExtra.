@@ -141,12 +141,17 @@ SECCIÓN 2–5 Resistores
 
 29.- ¿Cuál es la resistencia indicada por 4K7?
 
-Rpta:4.7 kΩ
+Rpta: 4.7 kΩ
 
-30.- Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+30.- Determine la resistencia de cada resistor rotulado como sigue:
 
 ![Captura de pantalla (1402)](https://user-images.githubusercontent.com/85144847/123503697-29942300-d61a-11eb-9f1f-fd18190ef5d4.png)
 
+SECCIÓN 2–6 El circuito eléctrico
+
+31.-	Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2.
+
+![Captura de pantalla (1404)](https://user-images.githubusercontent.com/85144847/123503776-a7f0c500-d61a-11eb-8050-baf686a35381.png)
 
 
 
