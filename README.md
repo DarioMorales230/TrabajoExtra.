@@ -211,9 +211,17 @@ Respuesta:
 
 ![image](https://user-images.githubusercontent.com/85144847/123504334-33b82080-d61e-11eb-82ae-5bfa3ddc34eb.png)
 
+43.-	¿Cuál es la lectura de voltaje del medidor mostrado en la figura 2-74?
 
+![image](https://user-images.githubusercontent.com/85144847/123504381-8396e780-d61e-11eb-9007-2232b7db2a75.png)
 
+La lectura de voltaje del medidor es: 250 v
 
+44.- ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![image](https://user-images.githubusercontent.com/85144847/123504390-9b6e6b80-d61e-11eb-83c2-795b0f203dd5.png)
+ 
+ La lectura de resistencia que está midiendo el medidor es: 10 Ω
 
 
 
