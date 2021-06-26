@@ -115,6 +115,26 @@ SECCIÓN 2–5 Resistores
 
 ![Captura de pantalla (1395)](https://user-images.githubusercontent.com/85144847/123496859-d60cdf80-d5ef-11eb-9ed9-7c122ef48de1.png)
 
+23.- Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de tolerancia: 
+
+![Captura de pantalla (1396)](https://user-images.githubusercontent.com/85144847/123496934-5e8b8000-d5f0-11eb-8218-d31bbd6d074f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 4. Conclusiones.
