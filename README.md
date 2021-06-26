@@ -239,6 +239,17 @@ b) I1
 
 c) R1
 
+![image](https://user-images.githubusercontent.com/85144847/123504565-c1484000-d61f-11eb-9ae6-8ca139969c35.png)
+
+Respuesta: V1 y I1
+
+![image](https://user-images.githubusercontent.com/85144847/123504570-c907e480-d61f-11eb-9b31-859d6e64ebc0.png)
+
+ Respuesta: R1
+ 
+ ![image](https://user-images.githubusercontent.com/85144847/123504575-d45b1000-d61f-11eb-93d3-4695ac312964.png)
+
+
 
 
 
