@@ -105,8 +105,11 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 ![Captura de pantalla (1393)](https://user-images.githubusercontent.com/85144847/123496687-ee302f00-d5ee-11eb-8a5b-cdf963ce50c1.png)
 
+SECCIÓN 2–5 Resistores
 
+21.- Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
 
+![Captura de pantalla (1394)](https://user-images.githubusercontent.com/85144847/123496777-5f6fe200-d5ef-11eb-9abc-06bb37c8b11e.png)
 
 
 4. Conclusiones.
