@@ -123,6 +123,19 @@ SECCIÓN 2–5 Resistores
 
 ![Captura de pantalla (1397)](https://user-images.githubusercontent.com/85144847/123496977-9f839480-d5f0-11eb-9d55-6e582df627b2.png)
 
+25.- Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.
+
+![Captura de pantalla (1398)](https://user-images.githubusercontent.com/85144847/123503482-d79ecd80-d618-11eb-9e3a-6c119fc49b12.png)
+
+26.- Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+![Captura de pantalla (1399)](https://user-images.githubusercontent.com/85144847/123503509-06b53f00-d619-11eb-916f-6f8aab5a5ad2.png)
+
+27.- Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene una tolerancia del 1 por ciento.
+
+![Captura de pantalla (1400)](https://user-images.githubusercontent.com/85144847/123503555-43813600-d619-11eb-9521-53fbb7c50bfe.png)
+
+
 
 
 
