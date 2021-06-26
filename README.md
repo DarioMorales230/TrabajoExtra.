@@ -55,6 +55,9 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1381)](https://user-images.githubusercontent.com/85144847/123495962-672d8780-d5eb-11eb-81fa-76616551abee.png)
 
+9.- Si un resistor con una corriente de 2 (A) a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?
+
+![Captura de pantalla (1382)](https://user-images.githubusercontent.com/85144847/123496018-a78d0580-d5eb-11eb-9282-5f96f8fa0c18.png)
 
 
 
