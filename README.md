@@ -119,7 +119,9 @@ SECCIÓN 2–5 Resistores
 
 ![Captura de pantalla (1396)](https://user-images.githubusercontent.com/85144847/123496934-5e8b8000-d5f0-11eb-8218-d31bbd6d074f.png)
 
+24.- Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
+![Captura de pantalla (1397)](https://user-images.githubusercontent.com/85144847/123496977-9f839480-d5f0-11eb-9d55-6e582df627b2.png)
 
 
 
