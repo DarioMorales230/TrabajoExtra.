@@ -163,7 +163,9 @@ SECCIÓN 2–6 El circuito eléctrico
 
 34.- ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?       
 
+![Captura de pantalla (1407)](https://user-images.githubusercontent.com/85144847/123503918-a2e04580-d61b-11eb-9c3f-91de9962d059.png)
 
+35.- 
 
 
 
