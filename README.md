@@ -13,3 +13,13 @@
 •	Identificar y detallar que tipo de instrumento de medición necesitamos para poder obtener lecturas de los componentes eléctricos del circuito también teniendo en cuenta de como se deben de conectar.
 
 •	Detallar cada componente o ejercicio que se nos presente a continuación para lograr una mejor comprensión del tema a tratar o razonar.
+
+2. Marco Teorico.
+
+3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+4. Conclusiones.
+
+5. Bibliografia.
+
+Análisis de ciruitos - Robbins.pdf
