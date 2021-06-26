@@ -181,6 +181,7 @@ SECCIÓN 2–6 El circuito eléctrico
 
 38.-	Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
+![Captura de pantalla (1413)](https://user-images.githubusercontent.com/85144847/123504113-fd2dd600-d61c-11eb-8632-1a0c22e7783b.png)
 
 
 
