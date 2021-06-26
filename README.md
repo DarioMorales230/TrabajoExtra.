@@ -87,6 +87,13 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1389)](https://user-images.githubusercontent.com/85144847/123496448-c12f4c80-d5ed-11eb-9a35-a23a9a62f372.png)
 
+SECCIÓN 2–4 Fuentes de voltaje y de corriente
+
+17.- Enliste cuatro fuentes de voltaje comunes.
+
+![Captura de pantalla (1390)](https://user-images.githubusercontent.com/85144847/123496524-19664e80-d5ee-11eb-9e87-6208450eccb7.png)
+
+
 
 
 
