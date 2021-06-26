@@ -59,6 +59,13 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1382)](https://user-images.githubusercontent.com/85144847/123496018-a78d0580-d5eb-11eb-9282-5f96f8fa0c18.png)
 
+10.- Determine la corriente en cada uno de los siguientes casos:
+
+![Captura de pantalla (1383)](https://user-images.githubusercontent.com/85144847/123496074-f0dd5500-d5eb-11eb-8f73-44636041d40e.png)
+
+
+
+
 
 
 
