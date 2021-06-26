@@ -12,7 +12,7 @@
 
 •	Identificar y detallar que tipo de instrumento de medición necesitamos para poder obtener lecturas de los componentes eléctricos del circuito también teniendo en cuenta de como se deben de conectar.
 
-•	Detallar cada componente o ejercicio que se nos presente a continuación para lograr una mejor comprensión del tema a tratar o razonar.
+•	Detallar cada componente o ejercicio que se nos presente a continuación para lograr una mejor comprensión del tema a tratar.
 
 2. Marco Teorico.
 
@@ -258,6 +258,8 @@ Respuesta: V1 y I1
 5. Bibliografia.
 
 •	Principios de Circuitos Eléctricos Floyd.pdf
+
 •	Simulador Tinkercad
+
 •	Crocodile Clips 
 
