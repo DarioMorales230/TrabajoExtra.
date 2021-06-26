@@ -231,7 +231,13 @@ Respuesta: La lectura de voltaje del medidor es 250 v
 
 Respuesta: La resolución máxima de un multímetro de 4 ½ es de 1000000 v
 
+47.- 47.	Indique en qué forma conectaría el multímetro de la figura 2-75 al circuito de la figura 2-76 para medir cada una de las siguientes cantidades. Incluya la función y el intervalo apropiados en todos los casos.
 
+a) V1
+
+b) I1
+
+c) R1
 
 
 
