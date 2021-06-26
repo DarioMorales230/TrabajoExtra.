@@ -75,6 +75,9 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1386)](https://user-images.githubusercontent.com/85144847/123496219-91cc1000-d5ec-11eb-8dd3-b6c6562606b4.png)
 
+14.- 5.74 x 10^17  electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+![Captura de pantalla (1387)](https://user-images.githubusercontent.com/85144847/123496303-069f4a00-d5ed-11eb-9804-f699691fcb7a.png)
 
 
 
