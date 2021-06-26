@@ -51,6 +51,11 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1380)](https://user-images.githubusercontent.com/85144847/123495847-01d99680-d5eb-11eb-9be6-73eee6d0cb36.png)
 
+8.- ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![Captura de pantalla (1381)](https://user-images.githubusercontent.com/85144847/123495962-672d8780-d5eb-11eb-81fa-76616551abee.png)
+
+
 
 
 
