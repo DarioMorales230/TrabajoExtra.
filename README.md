@@ -18,6 +18,8 @@
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
+![Floyd Circuitos-01](https://user-images.githubusercontent.com/85144847/123504763-b8a43980-d620-11eb-8675-82f33655560b.png)
+
 1.- ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 Para la debida resolución del ejercicio presentado al inicio debemos tener ciertos conocimientos los cuales son el número de electrones que tiene el átomo de cobre y cuantos electrones tiene un coulomb para ello aplicaremos lo siguiente:
 
@@ -249,17 +251,13 @@ Respuesta: V1 y I1
  
  ![image](https://user-images.githubusercontent.com/85144847/123504575-d45b1000-d61f-11eb-93d3-4695ac312964.png)
 
-
-
-
-
-
-
-
-
-
 4. Conclusiones.
+
+
 
 5. Bibliografia.
 
-Análisis de ciruitos - Robbins.pdf
+•	Principios de Circuitos Eléctricos Floyd.pdf
+•	Simulador Tinkercad
+•	Crocodile Clips 
+
