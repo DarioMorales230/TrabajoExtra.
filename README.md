@@ -253,7 +253,11 @@ Respuesta: V1 y I1
 
 4. Conclusiones.
 
+•	Es claro que logramos ver el funcionamiento de cada elemento eléctrico o electrónico que está dentro de cualquier circuito así sea el circuito serie, paralelo o mixto  
 
+•	Ciertamente pudimos identificar que tipo de instrumento de medición necesitamos al momento del pensamiento para poder obtener las lecturas necesarias de cada componente eléctrico.
+
+•	Finalmente conseguimos un claro concepto de cada componente, un razonamiento amplio para cada ejercicio que se nos presente y una gran imaginación al crear los diferentes circuitos.
 
 5. Bibliografia.
 
