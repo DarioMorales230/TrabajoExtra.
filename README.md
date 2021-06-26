@@ -37,7 +37,11 @@ Para resolver este ejercicio necesitaremos saber la siguiente información:
 
 ![Captura de pantalla (1377)](https://user-images.githubusercontent.com/85144847/123495617-1701f580-d5ea-11eb-836b-646396768577.png)
 
+SECCIÓN 2-3 Voltaje, corriente y resistencia
 
+5.- Determine el voltaje en cada uno de los siguientes casos:
+
+![Captura de pantalla (1378)](https://user-images.githubusercontent.com/85144847/123495761-9a234b80-d5ea-11eb-924d-4106651e915a.png)
 
 
 
