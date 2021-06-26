@@ -153,6 +153,9 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![Captura de pantalla (1404)](https://user-images.githubusercontent.com/85144847/123503776-a7f0c500-d61a-11eb-8050-baf686a35381.png)
 
+32.- Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+![Captura de pantalla (1405)](https://user-images.githubusercontent.com/85144847/123503825-04ec7b00-d61b-11eb-837a-2530d1ec7ddc.png)
 
 
 
