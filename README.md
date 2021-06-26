@@ -165,7 +165,9 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![Captura de pantalla (1407)](https://user-images.githubusercontent.com/85144847/123503918-a2e04580-d61b-11eb-9c3f-91de9962d059.png)
 
-35.- 
+35.- Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1  y VS2)  al mismo tiempo a cualquiera de dos resistores (R1  y R2) como sigue:
+
+![Captura de pantalla (1408)](https://user-images.githubusercontent.com/85144847/123503970-f18ddf80-d61b-11eb-9461-8772d7617fb4.png)
 
 
 
