@@ -187,7 +187,13 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![Captura de pantalla (1414)](https://user-images.githubusercontent.com/85144847/123504216-7f1dff00-d61d-11eb-80e3-3f1de12e6549.png)
 
+40.- En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
+![image](https://user-images.githubusercontent.com/85144847/123504246-a83e8f80-d61d-11eb-8555-3eedb4de6db1.png)
+
+![image](https://user-images.githubusercontent.com/85144847/123504252-ad034380-d61d-11eb-9379-03b2dd1bf790.png)
+
+Rpta: Para poder saber cual es la corriente eléctrica que pasa por la fuente de voltaje lo que debemos hacer es conectar el amperímetro en serie con la fuente.
 
 
 
