@@ -101,6 +101,9 @@ SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
 ![Captura de pantalla (1392)](https://user-images.githubusercontent.com/85144847/123496612-91cd0f80-d5ee-11eb-8df1-5e97ed75621c.png)
 
+20.- Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
+
+![Captura de pantalla (1393)](https://user-images.githubusercontent.com/85144847/123496687-ee302f00-d5ee-11eb-8a5b-cdf963ce50c1.png)
 
 
 
