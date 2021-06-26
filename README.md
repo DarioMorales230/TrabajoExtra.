@@ -139,8 +139,13 @@ SECCIÓN 2–5 Resistores
 
 ![Captura de pantalla (1401)](https://user-images.githubusercontent.com/85144847/123503593-8a6f2b80-d619-11eb-80a7-979126b75534.png)
 
+29.- ¿Cuál es la resistencia indicada por 4K7?
 
+Rpta:4.7 kΩ
 
+30.- Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+![Captura de pantalla (1402)](https://user-images.githubusercontent.com/85144847/123503697-29942300-d61a-11eb-9f1f-fd18190ef5d4.png)
 
 
 
