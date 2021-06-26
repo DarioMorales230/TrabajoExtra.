@@ -135,8 +135,9 @@ SECCIÓN 2–5 Resistores
 
 ![Captura de pantalla (1400)](https://user-images.githubusercontent.com/85144847/123503555-43813600-d619-11eb-9521-53fbb7c50bfe.png)
 
+28.- El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
-
+![Captura de pantalla (1401)](https://user-images.githubusercontent.com/85144847/123503593-8a6f2b80-d619-11eb-80a7-979126b75534.png)
 
 
 
