@@ -223,6 +223,14 @@ Respuesta: La lectura de voltaje del medidor es 250 v
  
  Respuesta: La lectura de resistencia que está midiendo el medidor es 10 Ω
 
+45.-	Determine la resistencia indicada por cada una de las siguientes lecturas y ajustes de intervalo de óhmetro.
+
+![Captura de pantalla (1416)](https://user-images.githubusercontent.com/85144847/123504459-19327700-d61f-11eb-8f17-2ddea74ccc91.png)
+
+46.- ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+Respuesta: La resolución máxima de un multímetro de 4 ½ es de 1000000 v
+
 
 
 
