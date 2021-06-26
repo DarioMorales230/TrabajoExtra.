@@ -193,7 +193,7 @@ SECCIÓN 2–6 El circuito eléctrico
 
 ![image](https://user-images.githubusercontent.com/85144847/123504252-ad034380-d61d-11eb-9379-03b2dd1bf790.png)
 
-Rpta: Para poder saber cual es la corriente eléctrica que pasa por la fuente de voltaje lo que debemos hacer es conectar el amperímetro en serie con la fuente.
+Respuesta: Para poder saber cual es la corriente eléctrica que pasa por la fuente de voltaje lo que debemos hacer es conectar el amperímetro en serie con la fuente.
 
 41.- En la figura 2-70, muestre la colocación apropiada de los amperímetros para medir la corriente a través del resistor y la que sale de la batería.
 
