@@ -43,6 +43,15 @@ SECCIÓN 2-3 Voltaje, corriente y resistencia
 
 ![Captura de pantalla (1378)](https://user-images.githubusercontent.com/85144847/123495761-9a234b80-d5ea-11eb-924d-4106651e915a.png)
 
+6.- Se utilizan quinientos Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+![Captura de pantalla (1379)](https://user-images.githubusercontent.com/85144847/123495829-ed959980-d5ea-11eb-8ff5-1865ffc8de35.png)
+
+7.- ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?
+
+![Captura de pantalla (1380)](https://user-images.githubusercontent.com/85144847/123495847-01d99680-d5eb-11eb-9be6-73eee6d0cb36.png)
+
+
 
 
 
