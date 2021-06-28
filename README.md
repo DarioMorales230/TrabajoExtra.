@@ -16,6 +16,9 @@
 
 2. Marco Teorico.
 
+![Trabajo Extra](https://user-images.githubusercontent.com/85144847/123661026-cc56c800-d7f9-11eb-988d-6f9c4dc69b6a.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS.
 
 ![Floyd Circuitos-01](https://user-images.githubusercontent.com/85144847/123504763-b8a43980-d620-11eb-8675-82f33655560b.png)
